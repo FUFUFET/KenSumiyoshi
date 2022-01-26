@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_6" data-name="Group 6" transform="translate(247 -1303)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-247 1303)" fill="#ffc46b" stroke="#707070" stroke-width="1">
+      <circle cx="40" cy="40" r="40" stroke="none"/>
+      <circle cx="40" cy="40" r="39.5" fill="none"/>
+    </g>
+    <text id="憲" transform="translate(-232 1364)" font-size="50" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">憲</tspan></text>
+  </g>
+</svg>
