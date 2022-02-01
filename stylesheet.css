@@ -94,8 +94,8 @@ justify-items: center;}
     font-size:1rem;}
 main p{width:60%;}
 
-/* .AA img{max-width:99%;}
- */
+.AA img{max-width:100%;}
+ 
 
 footer{display: flex;
 justify-content: center;
