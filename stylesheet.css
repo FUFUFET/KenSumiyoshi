@@ -54,9 +54,11 @@ list-style-type: none;}
 li{margin-left: 1.2em;
 margin-right: 1.2em;}
 li a{text-decoration: none;
-color: black;}
+color: black;
+padding: 10px 2px;}
 li a:hover{background-color: white;
-outline:1px solid black}
+outline:1px solid black;
+}
 li a:focus{background-color:#FFFEDC;
     outline:1px solid aqua}
 main{
@@ -78,6 +80,9 @@ width: 100%;}
     h2{line-height: 2em;
     font-size: 2rem;}
 
+    h3{line-height: 2em;
+    font-size: 1.5rem;}
+
 #futureWAS{display:flex;
 justify-content: center;
 font-size: 1.2rem;
@@ -90,11 +95,12 @@ width: 60%;
 .AA{display: grid;
 justify-items: center;}
 
-.AA div{margin: 20px 0px 50px 0px;
+.AA div{margin: 20px 0px 20px 0px;
     font-size:1rem;}
 main p{width:60%;}
 
 .AA img{max-width:100%;}
+.accessibility{margin-bottom: 50px;}
  
 
 footer{display: flex;
@@ -171,6 +177,7 @@ footer p{
          h1{font-size: 2rem;}
          
          h2{font-size: 1.5rem;}
+         h3{font-size: 1.2rem;}
         
         #futureWAS{font-size: 1rem;}
         
@@ -179,7 +186,7 @@ footer p{
         
         
         .AA div{margin-bottom: 20px;}
-        #Obi{margin-bottom: 40px;}
+        #Obi{margin-bottom: 20px;}
 
         footer p{
             width:90%;}
@@ -193,7 +200,7 @@ main p{width: 95%;}
     .nav-wrapper{width:95%;}
 
     .pics{width: 95%;}
-
+.accessibility{margin-bottom: 20px;}
     footer p{
         width:95%;}
 }
