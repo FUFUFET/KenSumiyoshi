@@ -60,7 +60,15 @@ li a:hover{background-color: white;
 outline:1px solid black;
 }
 li a:focus{background-color:#FFFEDC;
-    outline:1px solid aqua}
+    outline:1px solid blue}
+    p a:hover{background-color: white;
+        outline:1px solid black;
+        }
+
+        p a:focus{background-color:#FFFEDC;
+            outline:1px solid blue}
+/* 
+            abbr{text-decoration: none;} */
 main{
 display: grid;
 place-items: center;
